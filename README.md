@@ -15,8 +15,8 @@ We have use Our World in Data Covid dataset for the purpose of this project. Our
 2. If people with pre-existing conditions are more prone to be hospitalized or die -Laurane 
 3. Top 10 Countries by Cases - Victoria
 4. Top 10 Counties by Hospitalization/ICU Admissions - Victoria
-5. Trend of Covid related total deaths by country  -vasanta
-6. Progress of fully vaccinated people in the world by country - vasanta
+5. Trend of Covid related total deaths by country  -Vasanta
+6. Progress of fully vaccinated people in the world by country - Vasanta
 
 ##  Analysis and conclusions
 
