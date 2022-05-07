@@ -1,4 +1,4 @@
-# Impact of COVID 19 across the world
+# Impact of COVID-19 across the world
 
 ## Team Members: 
 Vasanta P, Laurane Gerber, Parisa Ch, Victoria Sandoval
