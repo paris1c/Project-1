@@ -1,6 +1,4 @@
-Editing Impact of COVID 19 across the world
-
-# **Project Proposal**
+# Impact of COVID 19 across the world
 
 ## Team Members: 
 Vasanta P, Laurane Gerber, Parisa Ch, Victoria Sandoval
@@ -10,23 +8,18 @@ A novel corona virus (COVID 19) was identified in 2019 in Wuhan China. It has sp
 
 ## Dataset:
 ### Our World In Data - COVID 19 data, Vaccination data and Hospitalization data
-
 We have use Our World in Data Covid dataset for the purpose of this project. Our World in Data is a scientific online publication which focuses on large global problems such as disease, climate change, war, etc. This dataset is consist of 207 countries.
 
-## Research questions to answer:
-1. Correlation between cases and amount of people vaccinated - Parisa
-2. GDP versus vaccines/cases - parisa
-4. Trend of Covid related total deaths by country  -vasanta
-5. Progress of fully vaccinated people in the world by country - vasanta
-6. How effective the vaccination is in each country - Laurane
-7. New cases over time by country - Victoria 
-8. Hospitalization rate by country - Victoria
-9. If people with preexisting conditions are more prone to be hospitalized or die -Laurane
+## Project proposal and questions to analyze:
+1. Global impact of Covid 19 by Income Groups - Parisa
+2. If people with pre-existing conditions are more prone to be hospitalized or die -Laurane 
+3. Top 10 Countries by Cases - Victoria
+4. Top 10 Counties by Hospitalization/ICU Admissions - Victoria
+5. Trend of Covid related total deaths by country  -vasanta
+6. Progress of fully vaccinated people in the world by country - vasanta
 
-##  Results:
+##  Analysis and conclusions
 
-## Conclusions:
 
-## Datasets to be used:
 
  
