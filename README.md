@@ -9,6 +9,7 @@ A novel corona virus (COVID 19) was identified in 2019 in Wuhan China. It has sp
 ## Dataset:
 ### Our World In Data - COVID 19 data, Vaccination data and Hospitalization data
 We have use Our World in Data Covid dataset for the purpose of this project. Our World in Data is a scientific online publication which focuses on large global problems such as disease, climate change, war, etc. This dataset is consist of 207 countries.
+
 ### Dataset reference link:
 - [owid data set](https://github.com/owid/covid-19-data/tree/master/public/data)
 
@@ -38,4 +39,15 @@ Unfortunately, not all countries that reported their weekly hospital admissions 
 
 France, Italy, Germany, and South Korea were the part of each of the top 10 categories for total cases, weekly hospital admissions and weekly ICU admissions. 
 
+### Trend of Covid related total deaths by country -Vasanta
+- **Description of Analysis**: Covid was declared a pandemic because of the huge number of deaths it caused. To check the trend of covid related deaths in each country, a time series analysis was done using a scatter plot where x-axis is the date, and the y-axis is the highest death count of each country. After cleaning the data, it was grouped by country. This dataset was used to create a dataframe, with columns relevant to date, location, and deaths. It was then sorted, after calculating the highest death count of each country, to find the top 50 countries with highest deaths. Another scatter plot with total death and countries was plotted to visualize the countries with most deaths. Finally using a pie chart a closer view of the top 10 countries with highest death was found.
+- **Findings:**
+    - 1. From the time series scatter plot, we know that as of Mar10, 2021, United States has the highest number of deaths of 0.991254M. It was followed by Brazil on Sep 14, 2021, with deaths totaling 662.891K, only to be followed by India which reached its peak death count of 522.223K even earlier, on Feb 11, 2020.
+    - 2. When we look at the highest death and country scatter plot, we see that United States, Brazil, India, Russia, and Mexico were the top 5 countries to have seen the most deaths.
+    - 3. From the pie chart we can see that United States constituted 26.7%, Brazil 17.8% and India 14% of the top 10 countries with highest deaths
+### Progress of fully vaccinated people in the world by country – Vasanta
+- **Description of Analysis:** One of the ways to combat covid was by building immunity to it through vaccinations. The next analysis is used to observe the progress of fully vaccinated people i.e., those who received at least 2 or 1dose based on the type of vaccination. The previously cleaned dataset was used to create a dataframe with columns relevant to dates, location, and vaccination. A sentiment analysis was performed using line plots and choropleth maps to identify if the progress was positive or negative. A line graph was plotted to show the progress of fully vaccinated people in 10 countries with highest vaccination rates. Another animated choropleth map was created to show the progress of vaccinations throughout the world. 
+- **Findings:**
+    - 1. From the line plot we can see that almost all the countries were making a positive progress in being fully vaccinated with China being the highest with 1.2 billion being fully vaccinated, followed by India and United States with 846.58 million and 219.26 million respectively as of Apr 20, 2022. Some dips can be observed which are most likely due to missing data in the original dataset.
+    - 2. The animated choropleth map shows almost every country starting the administration of vaccination, with a positive progression from Feb 2, 2020, to Apr 04, 2022.
 
