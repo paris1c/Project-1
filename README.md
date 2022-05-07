@@ -3,7 +3,7 @@
 ## Team Members: 
 Vasanta P, Laurane Gerber, Parisa Ch, Victoria Sandoval
 
-## Introduction (What we want to do and what data we are looking at):
+## Introduction:
 A novel corona virus (COVID 19) was identified in 2019 in Wuhan China. It has spread rapidly worldwide and was officially declared to be a pandemic by the WHO. To better understand the data available about it, we will be doing exploratory data analysis of the available COVID 19 data.  The goal of the project is to study the impact of COVID 19 across the world using Python, Pandas, Plotly express and Matplotlib and present visualizations to show our analysis.
 
 ## Dataset:
