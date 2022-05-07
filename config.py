@@ -1,0 +1,1 @@
+covid_key = '41810ea4ecmsh946e23f9b521de6p140ad5jsn0a63191ac88f'
