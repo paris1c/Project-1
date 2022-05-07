@@ -49,5 +49,6 @@ France, Italy, Germany, and South Korea were the part of each of the top 10 cate
     - 2. The animated choropleth map shows almost every country starting the administration of vaccination, with a positive progression from Feb 2, 2020, to Apr 04, 2022.
 
 ### Reference links:
-- Dataset[owid data set](https://github.com/owid/covid-19-data/tree/master/public/data)
-- Plotly[
+- Dataset [owid data set](https://github.com/owid/covid-19-data/tree/master/public/data)
+- Plotly [https://stackoverflow.com/questions/66789515/plotly-px-animation-frame-error-with-datetime-not-being-accepted]
+- Plotly [https://www.analyticsvidhya.com/blog/2021/05/analyze-covid-vaccination-progress-using-python/]
