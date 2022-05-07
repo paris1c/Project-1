@@ -10,9 +10,6 @@ A novel corona virus (COVID 19) was identified in 2019 in Wuhan China. It has sp
 ### Our World In Data - COVID 19 data, Vaccination data and Hospitalization data
 We have use Our World in Data Covid dataset for the purpose of this project. Our World in Data is a scientific online publication which focuses on large global problems such as disease, climate change, war, etc. This dataset is consist of 207 countries.
 
-### Dataset reference link:
-- [owid data set](https://github.com/owid/covid-19-data/tree/master/public/data)
-
 ## Project proposal and questions to analyze:
 1. Global impact of Covid 19 by Income Groups - Parisa
 2. If people with pre-existing conditions are more prone to be hospitalized or die -Laurane 
@@ -51,3 +48,6 @@ France, Italy, Germany, and South Korea were the part of each of the top 10 cate
     - 1. From the line plot we can see that almost all the countries were making a positive progress in being fully vaccinated with China being the highest with 1.2 billion being fully vaccinated, followed by India and United States with 846.58 million and 219.26 million respectively as of Apr 20, 2022. Some dips can be observed which are most likely due to missing data in the original dataset.
     - 2. The animated choropleth map shows almost every country starting the administration of vaccination, with a positive progression from Feb 2, 2020, to Apr 04, 2022.
 
+### Reference links:
+- Dataset[owid data set](https://github.com/owid/covid-19-data/tree/master/public/data)
+- Plotly[
