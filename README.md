@@ -21,7 +21,8 @@ We have use Our World in Data Covid dataset for the purpose of this project. Our
 ##  Analysis and conclusions
 After reviewing COVID-19 data from Our World in Data, several findings were made.
 
-1. A glance at the vaccination plot reveals a clear pattern that, rich countries are vaccinated but poor countries are not! We also notice that Rich countries had access to vaccine lots earlier compared to Poor countries. 
+### Global impact of Covid 19 by Income Groups - Parisa
+A glance at the vaccination plot reveals a clear pattern that, rich countries are vaccinated but poor countries are not! We also notice that Rich countries had access to vaccine lots earlier compared to Poor countries. 
 
 By looking at number of cases Plot, we notice a sharp increase in number of cases in Rich Countries right before the 2022 New Year, which suggests that people were getting infected when they were not practicing social distancing during the Holidays.
 On the other hand, when we look at Cases Plot for Poor countries, we notice that those countries don't have many cases. The reason is not that they have lower cases, the reason could be that those countries have limited access to test kits and also their healthcare providers don't have all the necessary resources to record and report the number of cases accurately.
